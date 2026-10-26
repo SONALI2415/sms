@@ -1,3 +1,7 @@
 name = "Sonali"
 roll no = 101
 branch = "aids"
+
+name = "Shruti"
+roll no = 102
+branch = "cs"
